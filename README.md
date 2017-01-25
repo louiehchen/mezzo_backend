@@ -10,7 +10,7 @@ The Mezzomorphic back end is built using Rails 5 API and contains RESTful routes
 
 *If you don't already have Rails installed you can find installation instructions [here](http://guides.rubyonrails.org/getting_started.html).*
 
-##Instalation 
+##Installation
 ```
 bundle 
 rails db:create
