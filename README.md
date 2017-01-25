@@ -16,7 +16,7 @@ bundle
 rails db:create
 rails db:migrate
 ```
-When you first clone run these commands to initalize the application.
+When you first clone, run these commands to initalize the application.
 
 ##Usage
 ```
